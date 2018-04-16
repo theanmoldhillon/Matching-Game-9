@@ -2,22 +2,30 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 ### An awesome and fun card matching game. Open the cards by clicking on them and try to make the matches in as less moves as you can and win the game !!!
 
+![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/matching%20game.gif?raw=true)
+
 # Parts
 ### Gameboard
 * The gameboard contains 16 unopened cards that the user has to match.
 
+![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/gameboard.PNG?raw=true)
+
 ### Move Counter
 * This displays the number of times a user tries to match two acrds.
+
+![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/moves.PNG?raw=true)
 
 ### Reset Button
 * This closes all the opened cards and resets the move counter and the game is ready to play again.
 
-[Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/moves.PNG?raw=true)
+![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/reset.PNG?raw=true)
 ### Unmatched Cards
 * These are the blue cards which are opened.
+![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/unmatched.PNG?raw=true)
 
 ### Matchwd Cards
 * When two cards are matched, their color turns to red.
+![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/matched.PNG?raw=true)
 
 # How To Play
 * Click on the cards to open and see if they match.
