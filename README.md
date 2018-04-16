@@ -12,6 +12,7 @@
 ### Reset Button
 * This closes all the opened cards and resets the move counter and the game is ready to play again.
 
+[Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/moves.PNG?raw=true)
 ### Unmatched Cards
 * These are the blue cards which are opened.
 
