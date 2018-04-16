@@ -11,7 +11,7 @@
 ![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/gameboard.PNG?raw=true)
 
 ### Move Counter
-* This displays the number of times a user tries to match two acrds.
+* This displays the number of times a user tries to match two cards.
 
 ![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/moves.PNG?raw=true)
 
@@ -20,7 +20,7 @@
 
 ![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/reset.PNG?raw=true)
 ### Unmatched Cards
-* These are the blue cards which are opened.
+* These are the green cards which are opened.
 
 ![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/unmatched.PNG?raw=true)
 
