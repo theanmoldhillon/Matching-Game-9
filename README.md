@@ -6,19 +6,19 @@
 
 # Parts
 ### Gameboard
-*The gameboard contains 16 unopened cards that the user has to match.*
+* The gameboard contains 16 unopened cards that the user has to match.
 
 ### Move Counter
-*This displays the number of times a user tries to match two acrds.*
+* This displays the number of times a user tries to match two acrds.
 
 ### Reset Button
-*This closes all the opened cards and resets the move counter and the game is ready to play again.*
+* This closes all the opened cards and resets the move counter and the game is ready to play again.
 
 ### Unmatched Cards
-*These are the blue cards which are opened.*
+* These are the blue cards which are opened.
 
 ### Matchwd Cards
-*When two cards are matched, their color turns to red.*
+* When two cards are matched, their color turns to red.
 
 # How To Play
 * Click on the cards to open and see if they match.
