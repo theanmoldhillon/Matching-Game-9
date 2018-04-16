@@ -5,7 +5,7 @@
 ![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/matching%20game.gif?raw=true)
 
 # Parts
-### Gameboard
+### Game Board
 * The gameboard contains 16 unopened cards that the user has to match.
 
 ![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/gameboard.PNG?raw=true)
