@@ -24,7 +24,7 @@
 
 ![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/unmatched.PNG?raw=true)
 
-### Matchwd Cards
+### Matched Cards
 * When two cards are matched, their color turns to red.
 
 ![Reset](https://github.com/theanmoldhillon/Matching-Game-9/blob/master/matched.PNG?raw=true)
