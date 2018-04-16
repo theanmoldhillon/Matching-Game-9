@@ -2,8 +2,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 ### An awesome and fun card matching game. Open the cards by clicking on them and try to make the matches in as less moves as you can and win the game !!!
 
-![forthebadge](http://education.wichita.edu/caduceus/examples/servings/images/text_matching_game.gif)
-
 # Parts
 ### Gameboard
 * The gameboard contains 16 unopened cards that the user has to match.
@@ -33,3 +31,4 @@ There are no known issues in the current version.
 The newer versions of the game will have more fun animations.
 
 # Author
+Anmol Singh
